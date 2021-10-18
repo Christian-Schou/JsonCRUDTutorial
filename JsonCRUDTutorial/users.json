@@ -1,0 +1,25 @@
+{
+  "id": 1,
+  "fullname": "John Doe",
+  "address": {
+    "street": "Jernbanegade 22",
+    "city": "Svendborg",
+    "zip": 5700
+  },
+  "jobs": [
+    {
+      "jobid": 77,
+      "company": "ISS"
+    },
+    {
+      "jobid": 89,
+      "company": "DSB"
+    },
+    {
+      "jobid": 22,
+      "company": "GLS"
+    }
+  ],
+  "phone": 896532417,
+  "current-job-role": "Facility Manager"
+}
